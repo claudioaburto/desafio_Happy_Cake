@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  width: auto;
+  background-color: #B8E4FF;
+}
+span.emoticon_edition {
+  font-size: 150px;
+}
+.container_edition {
+  max-width: auto;
+}
+.container_edition
+.views_edition {
+  align-items: start;
+}
+.navbar_edition {
+  background-color: #0E4BEF;
+  align-items: end;
+}
+.navbar_brand {
+text-align: end;
+color: white;
+}
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  color: #000;
+  font-weight: 500;
+  text-align: center;
+}
+.frase_contacto {
+  font-size: xx-large;
+  padding: 55px
+}
+button {
+  border-radius: 20%;
+  background-color: #0E4BEF;
+  color: aliceblue;
+  width: 60px
+}
+h1 {
+  font-size: 3em;
+  line-height: 1.5;
+}
